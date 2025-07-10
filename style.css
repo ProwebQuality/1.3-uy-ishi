@@ -21,10 +21,12 @@ p {
     width: 1000px;
     margin: 30px auto;
     background-color: greenyellow;
-    color: purple;
+    color: #000;
     border: 10px solid red;
     padding: 15px;
     border-radius: 30px;
+    font-size: 18px;
+    text-align: justify;
 }
 
 img,
@@ -71,7 +73,7 @@ a img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 50px;
     color: #fff;
     border-radius: 15px;
     border: 8px solid red;
