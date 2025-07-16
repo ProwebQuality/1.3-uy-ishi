@@ -20,8 +20,8 @@ h2 {
 p {
     width: 1000px;
     margin: 30px auto;
-    background-color: greenyellow;
-    color: #000;
+    background-color:  rgb(4, 0, 128);
+    color: #fff;
     border: 10px solid red;
     padding: 15px;
     border-radius: 30px;
